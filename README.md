@@ -1,0 +1,4 @@
+ScriptureCenterWPTheme
+======================
+
+ScriptureCenter WordPress Theme
